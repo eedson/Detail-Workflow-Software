@@ -1,1 +1,2 @@
 
+This is software written in Node.JS that is setup to manage multiple accounts/detail shops and optimize their workflow. This includes keeping track of vehicles on location with services, costs, current process, etc.. This software also keeps track of employee hours and gives admins the ability to see stats like labor percentage and work efficiency for each employee.
